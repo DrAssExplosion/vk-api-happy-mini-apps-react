@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/vk-api-happy-mini-apps/static/css/main.981f7211.chunk.css",
-    "main.js": "/vk-api-happy-mini-apps/static/js/main.25e26a21.chunk.js",
-    "main.js.map": "/vk-api-happy-mini-apps/static/js/main.25e26a21.chunk.js.map",
-    "runtime-main.js": "/vk-api-happy-mini-apps/static/js/runtime-main.c60236de.js",
-    "runtime-main.js.map": "/vk-api-happy-mini-apps/static/js/runtime-main.c60236de.js.map",
-    "static/css/2.86df01db.chunk.css": "/vk-api-happy-mini-apps/static/css/2.86df01db.chunk.css",
-    "static/js/2.79909419.chunk.js": "/vk-api-happy-mini-apps/static/js/2.79909419.chunk.js",
-    "static/js/2.79909419.chunk.js.map": "/vk-api-happy-mini-apps/static/js/2.79909419.chunk.js.map",
-    "index.html": "/vk-api-happy-mini-apps/index.html",
-    "precache-manifest.ce938440818b3e9260eecc996a8bc0ad.js": "/vk-api-happy-mini-apps/precache-manifest.ce938440818b3e9260eecc996a8bc0ad.js",
-    "service-worker.js": "/vk-api-happy-mini-apps/service-worker.js",
-    "static/css/2.86df01db.chunk.css.map": "/vk-api-happy-mini-apps/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/vk-api-happy-mini-apps/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.79909419.chunk.js.LICENSE.txt": "/vk-api-happy-mini-apps/static/js/2.79909419.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/vk-api-happy-mini-apps/static/media/persik.4e1ec840.png"
+    "main.css": "/KULLEP/kullep.github.io/vk-mob-app/static/css/main.981f7211.chunk.css",
+    "main.js": "/KULLEP/kullep.github.io/vk-mob-app/static/js/main.25e26a21.chunk.js",
+    "main.js.map": "/KULLEP/kullep.github.io/vk-mob-app/static/js/main.25e26a21.chunk.js.map",
+    "runtime-main.js": "/KULLEP/kullep.github.io/vk-mob-app/static/js/runtime-main.f1f3c13e.js",
+    "runtime-main.js.map": "/KULLEP/kullep.github.io/vk-mob-app/static/js/runtime-main.f1f3c13e.js.map",
+    "static/css/2.86df01db.chunk.css": "/KULLEP/kullep.github.io/vk-mob-app/static/css/2.86df01db.chunk.css",
+    "static/js/2.0fa77392.chunk.js": "/KULLEP/kullep.github.io/vk-mob-app/static/js/2.0fa77392.chunk.js",
+    "static/js/2.0fa77392.chunk.js.map": "/KULLEP/kullep.github.io/vk-mob-app/static/js/2.0fa77392.chunk.js.map",
+    "index.html": "/KULLEP/kullep.github.io/vk-mob-app/index.html",
+    "precache-manifest.dd6e9a886310565a8df043d3d302fcae.js": "/KULLEP/kullep.github.io/vk-mob-app/precache-manifest.dd6e9a886310565a8df043d3d302fcae.js",
+    "service-worker.js": "/KULLEP/kullep.github.io/vk-mob-app/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/KULLEP/kullep.github.io/vk-mob-app/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/KULLEP/kullep.github.io/vk-mob-app/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.0fa77392.chunk.js.LICENSE.txt": "/KULLEP/kullep.github.io/vk-mob-app/static/js/2.0fa77392.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/KULLEP/kullep.github.io/vk-mob-app/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c60236de.js",
+    "static/js/runtime-main.f1f3c13e.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.79909419.chunk.js",
+    "static/js/2.0fa77392.chunk.js",
     "static/css/main.981f7211.chunk.css",
     "static/js/main.25e26a21.chunk.js"
   ]
