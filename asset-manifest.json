@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/vk-api-happy-mini-apps-react/static/css/main.981f7211.chunk.css",
-    "main.js": "/vk-api-happy-mini-apps-react/static/js/main.26f24a40.chunk.js",
-    "main.js.map": "/vk-api-happy-mini-apps-react/static/js/main.26f24a40.chunk.js.map",
+    "main.js": "/vk-api-happy-mini-apps-react/static/js/main.e2e31565.chunk.js",
+    "main.js.map": "/vk-api-happy-mini-apps-react/static/js/main.e2e31565.chunk.js.map",
     "runtime-main.js": "/vk-api-happy-mini-apps-react/static/js/runtime-main.6904bd6f.js",
     "runtime-main.js.map": "/vk-api-happy-mini-apps-react/static/js/runtime-main.6904bd6f.js.map",
     "static/css/2.fd4ec06c.chunk.css": "/vk-api-happy-mini-apps-react/static/css/2.fd4ec06c.chunk.css",
-    "static/js/2.a31ef719.chunk.js": "/vk-api-happy-mini-apps-react/static/js/2.a31ef719.chunk.js",
-    "static/js/2.a31ef719.chunk.js.map": "/vk-api-happy-mini-apps-react/static/js/2.a31ef719.chunk.js.map",
+    "static/js/2.38f2ae63.chunk.js": "/vk-api-happy-mini-apps-react/static/js/2.38f2ae63.chunk.js",
+    "static/js/2.38f2ae63.chunk.js.map": "/vk-api-happy-mini-apps-react/static/js/2.38f2ae63.chunk.js.map",
     "index.html": "/vk-api-happy-mini-apps-react/index.html",
-    "precache-manifest.0e7b2666ce03ba9a20a10f1f49d002eb.js": "/vk-api-happy-mini-apps-react/precache-manifest.0e7b2666ce03ba9a20a10f1f49d002eb.js",
+    "precache-manifest.c916c22ba66dd84571734df9540563a6.js": "/vk-api-happy-mini-apps-react/precache-manifest.c916c22ba66dd84571734df9540563a6.js",
     "service-worker.js": "/vk-api-happy-mini-apps-react/service-worker.js",
     "static/css/2.fd4ec06c.chunk.css.map": "/vk-api-happy-mini-apps-react/static/css/2.fd4ec06c.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/vk-api-happy-mini-apps-react/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.a31ef719.chunk.js.LICENSE.txt": "/vk-api-happy-mini-apps-react/static/js/2.a31ef719.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/vk-api-happy-mini-apps-react/static/media/persik.4e1ec840.png"
+    "static/js/2.38f2ae63.chunk.js.LICENSE.txt": "/vk-api-happy-mini-apps-react/static/js/2.38f2ae63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6904bd6f.js",
     "static/css/2.fd4ec06c.chunk.css",
-    "static/js/2.a31ef719.chunk.js",
-    "static/css/main.981f7211.chunk.css",
-    "static/js/main.26f24a40.chunk.js"
+    "static/js/2.38f2ae63.chunk.js",
+    "static/js/main.e2e31565.chunk.js"
   ]
 }
