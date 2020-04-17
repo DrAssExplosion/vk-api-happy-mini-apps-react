@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ec8cc2655fda83d57c4b7a694785d8d",
+    "revision": "5e71f1d4e5ce6dd97624da106aafb66a",
     "url": "/vk-api-happy-mini-apps-react/index.html"
   },
   {
-    "revision": "88644286eeea80d844a2",
+    "revision": "f97145543fa278876126",
     "url": "/vk-api-happy-mini-apps-react/static/css/2.fd4ec06c.chunk.css"
   },
   {
-    "revision": "88644286eeea80d844a2",
-    "url": "/vk-api-happy-mini-apps-react/static/js/2.c29c550d.chunk.js"
+    "revision": "f97145543fa278876126",
+    "url": "/vk-api-happy-mini-apps-react/static/js/2.eb40b23f.chunk.js"
   },
   {
     "revision": "84c0fb3b5e9c985532d69c2f9c3eba5b",
-    "url": "/vk-api-happy-mini-apps-react/static/js/2.c29c550d.chunk.js.LICENSE.txt"
+    "url": "/vk-api-happy-mini-apps-react/static/js/2.eb40b23f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ef4a754c7c379110caf",
-    "url": "/vk-api-happy-mini-apps-react/static/js/main.21d09eb2.chunk.js"
+    "revision": "bfddbcddc52ed467e9b2",
+    "url": "/vk-api-happy-mini-apps-react/static/js/main.0f206152.chunk.js"
   },
   {
     "revision": "487104bceb292fc4e006",
