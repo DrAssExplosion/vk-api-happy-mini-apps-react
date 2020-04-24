@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/vk-api-happy-mini-apps-react/static/js/main.86804bf0.chunk.js",
-    "main.js.map": "/vk-api-happy-mini-apps-react/static/js/main.86804bf0.chunk.js.map",
+    "main.js": "/vk-api-happy-mini-apps-react/static/js/main.98b96828.chunk.js",
+    "main.js.map": "/vk-api-happy-mini-apps-react/static/js/main.98b96828.chunk.js.map",
     "runtime-main.js": "/vk-api-happy-mini-apps-react/static/js/runtime-main.6904bd6f.js",
     "runtime-main.js.map": "/vk-api-happy-mini-apps-react/static/js/runtime-main.6904bd6f.js.map",
     "static/css/2.fd4ec06c.chunk.css": "/vk-api-happy-mini-apps-react/static/css/2.fd4ec06c.chunk.css",
     "static/js/2.1fa0a5b6.chunk.js": "/vk-api-happy-mini-apps-react/static/js/2.1fa0a5b6.chunk.js",
     "static/js/2.1fa0a5b6.chunk.js.map": "/vk-api-happy-mini-apps-react/static/js/2.1fa0a5b6.chunk.js.map",
     "index.html": "/vk-api-happy-mini-apps-react/index.html",
-    "precache-manifest.7757cc1145fe8b74b742bf3fdc914e7f.js": "/vk-api-happy-mini-apps-react/precache-manifest.7757cc1145fe8b74b742bf3fdc914e7f.js",
+    "precache-manifest.1d363f41f40781543122357c9242a4ec.js": "/vk-api-happy-mini-apps-react/precache-manifest.1d363f41f40781543122357c9242a4ec.js",
     "service-worker.js": "/vk-api-happy-mini-apps-react/service-worker.js",
     "static/css/2.fd4ec06c.chunk.css.map": "/vk-api-happy-mini-apps-react/static/css/2.fd4ec06c.chunk.css.map",
     "static/js/2.1fa0a5b6.chunk.js.LICENSE.txt": "/vk-api-happy-mini-apps-react/static/js/2.1fa0a5b6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6904bd6f.js",
     "static/css/2.fd4ec06c.chunk.css",
     "static/js/2.1fa0a5b6.chunk.js",
-    "static/js/main.86804bf0.chunk.js"
+    "static/js/main.98b96828.chunk.js"
   ]
 }
